@@ -14,11 +14,10 @@
 
 ### 💫 About Me
 
-- 💼 I'm a Software Engineer
-- 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+-  I'm a Software Engineer
+-  I’m currently working on Full Stack Development 
+-  I’m currently learning AI/ML
+-  I’m looking to collaborate with open source enthusiasts
 
 <br>
 
