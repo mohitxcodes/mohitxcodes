@@ -61,15 +61,6 @@
 <img height="169em" src="https://nirzak-streak-stats.vercel.app?user=mohitxcodes&theme=radical">
 
 </div><br>
-
-<hr>
-
-<p align="center">
-  <b>Thanks for your visit to my profile! 😊</b>
-</p>
-
-
-<hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=mohitxcodes&color=red" alt="Total Github views" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
