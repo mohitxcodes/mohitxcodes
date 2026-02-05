@@ -4,41 +4,21 @@
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/mohitxcodes?label=follow&style=social)](https://github.com/mohitxcodes)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-Welcome to my profile! I'm a CSE'28 Student at Chandigarh University, React.js + Spring Boot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohitxcodes/)!
+Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/Next.js + SpringBoot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohitxcodes/)!
 
 <div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
 </div>
 
-### 💫 About Me
 
--  I'm a Software Engineer
--  I’m currently working on Full Stack Development 
--  I’m currently learning AI/ML
--  I’m looking to collaborate with open source enthusiasts
-
-<br>
-
-## 🌐 Socials: 
-
-<div align="center">
-
-<a href="https://instagram.com/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://leetcode.com/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.hackerrank.com/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-</div>
-
-<br>
-
- <div> 
-
+<div> 
+  
+### 🛠 &nbsp;Tech Stack
+  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -55,6 +35,7 @@ Welcome to my profile! I'm a CSE'28 Student at Chandigarh University, React.js +
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 </div><br>
 
 
