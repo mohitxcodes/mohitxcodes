@@ -1,4 +1,4 @@
-<img align="right" src="/assests/header_.png" alt="header" />
+<img align="right" src="/assests/header_ modified.png" alt="header" />
 
 ### Hi I'm Mohit !!
 
