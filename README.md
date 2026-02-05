@@ -1,4 +1,5 @@
 ### Hi I'm Mohit !!
+
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=mohitxcodes&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/mohitxcodes?label=follow&style=social)](https://github.com/mohitxcodes)&nbsp;
@@ -7,7 +8,7 @@
 Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/Next.js + SpringBoot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohitxcodes/)!
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="300" />
+<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
 </div>
 
 <div> 
@@ -15,6 +16,7 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ### 🛠 &nbsp;Tech Stack
 
 #### Languages
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -24,6 +26,7 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
 
 #### Libraries & Frameworks
+
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
@@ -41,6 +44,7 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 
 #### Databases & Tools
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
