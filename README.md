@@ -39,31 +39,3 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 </div><br>
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-
-<br>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitxcodes&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitxcodes&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitxcodes&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitxcodes&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitxcodes&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=mohitxcodes&theme=radical&hide_border=false&hide=contribs,stars&show=prs_merged,prs_merged_percentage">
-<img height="169em" src="https://nirzak-streak-stats.vercel.app?user=mohitxcodes&theme=radical">
-
-</div><br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mohitxcodes&color=red" alt="Total Github views" />
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/> -->
