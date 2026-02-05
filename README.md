@@ -10,12 +10,12 @@
 Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/Next.js + SpringBoot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohitxcodes/)!
 
 <div>
-<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
+<img align="right" src="/assests/screen_open.gif" alt="Profile Image" width="300" />
 </div>
 
 <div> 
   
-### 🛠 &nbsp;Tech Stack
+### <img src="/assests/tech_skills.gif" alt="tech stack" width="40" /> &nbsp;Tech Stack
 
 #### Languages
 
