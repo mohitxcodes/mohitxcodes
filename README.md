@@ -1,6 +1,6 @@
 <!-- <img align="right" src="/assests/header_ modified.png" alt="header" /> -->
 
-### Hi I'm Mohit !! &nbsp; <img src="/assests/hello.gif" alt="hi" width="18" />
+### Hi I'm Mohit !! &nbsp; <img src="/assests/hello.gif" alt="hi" width="32" />
 
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=mohitxcodes&color=red)&nbsp;
@@ -8,8 +8,6 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/Next.js + SpringBoot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohitxcodes/)!
-
-
 
 <div> 
   
@@ -55,7 +53,7 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
