@@ -23,7 +23,7 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 
 
 <div>
-<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="340" />
+<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
 </div>
 
 #### Libraries & Frameworks
@@ -51,7 +51,7 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)/
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)
