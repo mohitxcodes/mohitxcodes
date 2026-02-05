@@ -1,3 +1,5 @@
+<img align="right" src="/assests/header_.png" alt="header" />
+
 ### Hi I'm Mohit !!
 
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
@@ -70,3 +72,5 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 <a href="mailto:mohitxcodes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mohitxcodes"><img src="https://img.shields.io/badge/-@Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
+<img align="right" src="/assests/footer_.png" alt="footer" />
