@@ -1,12 +1,4 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/> -->
-
-<div id="header" align="center">
-
-<h1>Hey there, Mohit this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
-
-</div>
-
-# Hello there !
+### Hi I'm Mohit !! 
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=mohitxcodes&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/mohitxcodes?label=follow&style=social)](https://github.com/mohitxcodes)&nbsp;
