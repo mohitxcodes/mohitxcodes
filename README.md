@@ -67,12 +67,12 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p >
-<a href="https://www.msxcodes.in"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/mohitxcodes"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<a href="mailto:mohitxcodes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mohitxcodes"><img src="https://img.shields.io/badge/-@Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a herf="https://twitter.com/mohitxcodes"><img src="https://img.shields.io/badge/-@Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-<a herf="https://leetcode.com/mohitxcodes"><img src="https://img.shields.io/badge/-@LeetCode-FFA518?style=flat&logo=LeetCode&logoColor=white"/></a>
+<a href="https://www.msxcodes.in" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:mohitxcodes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/-@Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a herf="https://twitter.com/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/-@Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a herf="https://leetcode.com/mohitxcodes" target="_blank"><img src="https://img.shields.io/badge/-@LeetCode-FFA518?style=flat&logo=LeetCode&logoColor=white"/></a>
 </p>
 
 <!-- <img align="right" src="/assests/footer_.png" alt="footer" /> -->
