@@ -23,7 +23,7 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 
 
 <div>
-<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
+<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="340" />
 </div>
 
 #### Libraries & Frameworks
