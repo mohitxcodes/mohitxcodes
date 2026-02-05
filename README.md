@@ -2,7 +2,7 @@
 
 ### Hi I'm Mohit !! &nbsp; <img src="/assests/hello.gif" alt="hi" width="32" />
 
-![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
+![version :3.4.12](https://img.shields.io/badge/version-3.4.12-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=mohitxcodes&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/mohitxcodes?label=follow&style=social)](https://github.com/mohitxcodes)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
