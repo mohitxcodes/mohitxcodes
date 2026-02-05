@@ -1,6 +1,6 @@
 <!-- <img align="right" src="/assests/header_ modified.png" alt="header" /> -->
 
-### Hi I'm Mohit !! &nbsp; <img src="/assests/hello.gif" alt="hi" width="40" />
+### Hi I'm Mohit !! &nbsp; <img src="/assests/hello.gif" alt="hi" width="18" />
 
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=mohitxcodes&color=red)&nbsp;
@@ -9,13 +9,11 @@
 
 Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/Next.js + SpringBoot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohitxcodes/)!
 
-<div>
-<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
-</div>
+
 
 <div> 
   
-### <img src="/assests/tech_skills.gif" alt="tech stack" width="40" /> &nbsp;Tech Stack
+### <img src="/assests/tech_skills.gif" alt="tech stack" width="18" /> &nbsp;Tech Stack
 
 #### Languages
 
@@ -26,6 +24,10 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
+
+<div>
+<img align="right" src="/assests/tech_stack.gif" alt="Profile Image" width="300" />
+</div>
 
 #### Libraries & Frameworks
 
