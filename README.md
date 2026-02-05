@@ -7,9 +7,8 @@
 Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/Next.js + SpringBoot for web development, Flutter for cross-platform mobile apps, Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/mohitxcodes/)!
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="300" />
 </div>
-
 
 <div> 
   
@@ -35,7 +34,6 @@ Welcome to my profile! I'm a CSE'28 Student at @Chandigarh University, React.js/
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
 </div><br>
 
 ### 🤝🏻 &nbsp;Connect with Me
