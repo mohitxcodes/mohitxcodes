@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 200" width="490" height="200">
+<style>
+            .terminal { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; font-weight: 500; }
+            .prompt-user { fill: #3fb950; font-weight: bold; }
+            .prompt-colon { fill: #c9d1d9; }
+            .prompt-path { fill: #58a6ff; font-weight: bold; }
+            .prompt-dollar { fill: #c9d1d9; }
+            .cmd { fill: #c9d1d9; }
+            
+            .key { fill: #58a6ff; font-weight: bold; }
+            .colon { fill: #c9d1d9; }
+            .value { fill: #c9d1d9; }
+            
+            .anim-line {
+                opacity: 0;
+                animation: fadeSlideIn 0.3s forwards;
+            }
+            @keyframes fadeSlideIn {
+                from { opacity: 0; transform: translateX(-10px); }
+                to { opacity: 1; transform: translateX(0); }
+            }
+        </style>
+<rect width="490" height="200" fill="#0d1117" rx="8" />
+
+        <circle cx="20" cy="20" r="6" fill="#ff5f56" />
+        <circle cx="40" cy="20" r="6" fill="#ffbd2e" />
+        <circle cx="60" cy="20" r="6" fill="#27c93f" />
+    
+<g class="terminal">
+<text x="20" y="60" class="anim-line" style="animation-delay: 0.0s"><tspan class="prompt-user">mohit@github</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-path">~</tspan><tspan class="prompt-dollar">$</tspan> <tspan class="cmd">neofetch</tspan></text>
+<text x="20" y="82"></text>
+<text x="20" y="104" class="anim-line" style="animation-delay: 0.3s"><tspan class="key">Username</tspan><tspan class="colon">: </tspan><tspan class="value">mohitxcodes</tspan></text>
+<text x="20" y="126" class="anim-line" style="animation-delay: 0.44999999999999996s"><tspan class="key">Role</tspan><tspan class="colon">:     </tspan><tspan class="value">Software Engineer</tspan></text>
+<text x="20" y="148" class="anim-line" style="animation-delay: 0.6s"><tspan class="key">Stack</tspan><tspan class="colon">:    </tspan><tspan class="value">Python, TypeScript, React, Go</tspan></text>
+<text x="20" y="170" class="anim-line" style="animation-delay: 0.75s"><tspan class="key">Now</tspan><tspan class="colon">:      </tspan><tspan class="value">Building cool things</tspan></text>
+</g>
+</svg>
